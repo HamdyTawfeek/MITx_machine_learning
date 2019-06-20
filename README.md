@@ -22,7 +22,7 @@ An in-depth exploration to the field of machine learning, from linear models to 
 * Applications: Natural Language Processing
 
 
-##Projects:
+## Projects:
 * Automatic Review Analyzer
 * Digit Recognition with Neural Networks
 * Reinforcement Learning
