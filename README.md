@@ -25,4 +25,5 @@ An in-depth exploration to the field of machine learning, from linear models to 
 ## Projects:
 * Automatic Review Analyzer
 * Digit Recognition with Neural Networks
-* Reinforcement Learning
+* Collaborative Filtering 
+* Text Based Game
