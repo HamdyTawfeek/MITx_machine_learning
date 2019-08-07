@@ -1,6 +1,12 @@
 # MITx Machine Learning
 An in-depth exploration to the field of machine learning, from linear models to deep learning and reinforcement learning, through hands-on Python projects.
 
+## Projects:
+* Automatic Review Analyzer
+* Digit Recognition with Neural Networks
+* The Netflix Problem
+* Text Based Game
+
 ## Lectures:
 * Introduction
 * Linear classifiers, separability, perceptron algorithm
@@ -21,9 +27,3 @@ An in-depth exploration to the field of machine learning, from linear models to 
 * Reinforcement learning continued
 * Applications: Natural Language Processing
 
-
-## Projects:
-* Automatic Review Analyzer
-* Digit Recognition with Neural Networks
-* The Netflix Problem
-* Text Based Game
