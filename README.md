@@ -1,5 +1,5 @@
-# MITx Machine Learning
-An in-depth exploration to the field of machine learning, from linear models to deep learning and reinforcement learning, through hands-on Python projects. <a href="https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning">Course Link </a>
+# <a href="https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning">MITx Machine Learning </a>
+An in-depth exploration to the field of machine learning, from linear models to deep learning and reinforcement learning, through hands-on Python projects. 
 
 ## Projects:
 * Automatic Review Analyzer
